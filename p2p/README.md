@@ -1,6 +1,6 @@
 # P2P Network - Communication and File Sharing
 
-CSE 433 - Blockchain & Distributed Security Lab, University of Asia Pacific
+CSE 434 - Blockchain & Distributed Security Lab, University of Asia Pacific
 
 ## Project Description
 
